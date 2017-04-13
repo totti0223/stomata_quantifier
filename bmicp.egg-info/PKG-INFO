@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: bmicp
+Version: 1.2.0
+Summary: biomodule - iterative calculation of stomatal pores 
+Home-page: https://github.com/totti0223/
+Author: Yosuke Toda
+Author-email: tyosuke@aquaseerser.com
+License: MIT
+Description: # bm_icp (bio-module iterative characterization of stomatal pores)
+        
+        ## Installation
+        
+        `pip install bmicp`
+        
+        ## Use
+        
+        TODO
+        
+        ## Examples
+        
+        TODO
+        
+        
+Keywords: automatic quantification of stomatal pores
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
