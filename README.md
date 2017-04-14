@@ -1,3 +1,4 @@
+
 # bmicp (stomatal pore quantifier)
 
 A three step image analysis program for quantification of stomatal aperture from bright field images.
@@ -7,6 +8,15 @@ A three step image analysis program for quantification of stomatal aperture from
 3. Pore quantification responsive to the object status.
 
 <img src="https://github.com/totti0223/stomata_quantifier/blob/master/images/overview.jpg" width="480">
+
+# Author
+Yosuke Toda, Ph.D (Agriculture)
+tyosuke@aquaseerser.com
+
+Post Doctoral Researcher
+Lab of Plant Physiology
+Department of Science
+Nagoya University, Japan
 
 ## Requirements
 
