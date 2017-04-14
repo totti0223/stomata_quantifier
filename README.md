@@ -1,5 +1,11 @@
 # bmicp (stomatal pore quantifier)
 
+A three step image analysis program for quantification of stomatal aperture from bright field images.
+
+1. Identifying the coordinate of the stomata by hog + SVM.
+2. Classifying the status (open, partially open, closed, false positive) by convolutional neural network.
+3. Pore quantification responsive to the object status.
+
 ![overview](https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg)
 
 
