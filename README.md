@@ -11,11 +11,15 @@ A three step image analysis program for quantification of stomatal aperture from
 
 # Author
 Yosuke Toda, Ph.D (Agriculture)
+
 tyosuke@aquaseerser.com
 
 Post Doctoral Researcher
+
 Lab of Plant Physiology
+
 Department of Science
+
 Nagoya University, Japan
 
 ## Requirements
