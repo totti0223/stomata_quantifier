@@ -17,7 +17,7 @@ setuptools==32.3.1
 
 1. Download the repository.
 
-2. Open terminal
+2. Open terminal.
 
 3. Move to the downloaded directory.
 
@@ -27,7 +27,12 @@ setuptools==32.3.1
 
 - Tensorflow must not be ver. 1.0.. Codes are not compatible.
 
-- Several libraries such as cv2 and dlib cannot be installed via pip in anaconda environment. In such cases, comment out the 
+- Several packages such as cv2 and dlib cannot be installed via pip in anaconda environment. In such cases, comment out the requirements.txt like the following 
+
+"#matplotlib ==1.5.1"
+"#numpy == ......."
+
+and install respectively via conda install ....
 
 ## Usage
 
