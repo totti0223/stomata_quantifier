@@ -1,10 +1,7 @@
 # bmicp (stomatal pore quantifier)
 
-## 
-
-
 ## Requirements
-
+python>3
 matplotlib==1.5.1
 numpy==1.11.2
 scipy==0.18.1
@@ -18,13 +15,29 @@ setuptools==32.3.1
 
 ## Installation
 
-### 1. Install via pip
-`pip install bmicp`
+1. Download the repository.
 
+2. Open terminal
 
-## Use
+3. Move to the downloaded directory.
 
-TODO
+4. 'pip install .'
+
+## Note
+
+- Tensorflow must not be ver. 1.0.. Codes are not compatible.
+
+- Several libraries such as cv2 and dlib cannot be installed via pip in anaconda environment. In such cases, comment out the 
+
+## Usage
+
+- Open terminal
+
+- python
+
+- import bmicp
+
+- bmicp.cui("PATH/TO/THE/DIRECTORYORIMAGE")
 
 ## Examples
 

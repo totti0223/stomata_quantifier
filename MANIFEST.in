@@ -1,1 +1,3 @@
+include bmicp/models *
+include bmicp/data *
 include bmicp/config.ini

@@ -1,5 +1,5 @@
 from . import utils
-import os, time, statistics
+import sys, os, time, statistics
 
 # https://qiita.com/terms
 # section 9-1. of qiita.
@@ -29,7 +29,7 @@ def bm_icp(config_path, dir_path):
         print ("stdev time processing:" , statistics.stdev(time_container))
     print ("total time:", all_end - all_start)
 
-def cui(dir_path, config_path=os.path.join(os.path.dirname(__file__), "config.ini")):
+def cui(dir_path, config_path=os.path.join(os.path.dirname(__file__), "config/config.ini")):
     '''
     bio-module, stomata quantifier.
     ver. 1.0, 2017/4/13
