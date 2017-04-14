@@ -6,8 +6,7 @@ A three step image analysis program for quantification of stomatal aperture from
 2. Classifying the status (open, partially open, closed, false positive) by convolutional neural network.
 3. Pore quantification responsive to the object status.
 
-![overview]("https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg" width="480")
-
+<img src="https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg" width="48">
 
 ## Requirements
 python>3
