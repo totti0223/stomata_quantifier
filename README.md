@@ -21,7 +21,9 @@ setuptools==32.3.1
 
 3. Move to the downloaded directory.
 
-4. 'pip install .'
+~~~~
+pip install
+~~~~
 
 ## Note
 
@@ -41,7 +43,7 @@ and install respectively via conda install ....
 ~~~~
 python
 import bmicp
-bmicp.cui("PATH/TO/THE/DIRECTORYORIMAGE")
+bmicp.cui("PATH/TO/THE/DIRECTORY_OR_IMAGES")
 ~~~~
 
 ## Examples
