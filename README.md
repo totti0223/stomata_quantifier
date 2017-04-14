@@ -18,7 +18,7 @@ setuptools==32.3.1
 
 ## Installation
 
-###1. Install via pip
+### 1. Install via pip
 `pip install bmicp`
 
 
