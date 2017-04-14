@@ -26,7 +26,7 @@ def tf_inference(images, BATCH_SIZE, image_size, NUM_CLASSES):
                     if i == 1: print('Who would enter a prime number of filters')
                     return (i, int(n / i))
         (grid_Y, grid_X) = factorization (kernel.get_shape()[3].value)
-        print ('grid: %d = (%d, %d)' % (kernel.get_shape()[3].value, grid_Y, grid_X))
+        #print ('grid: %d = (%d, %d)' % (kernel.get_shape()[3].value, grid_Y, grid_X))
 
         x_min = tf.reduce_min(kernel)
         x_max = tf.reduce_max(kernel)

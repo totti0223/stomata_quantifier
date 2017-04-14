@@ -39,6 +39,6 @@ setup(
     packages=['bmicp'],
     install_requires=open('requirements.txt').read().splitlines(),
     package_data={
-        "bmicp": ["leafdisk161002_c_7.0.svm", "model.ckpt-5000", "config.ini"]
+        "bmicp": ["models/*", "config.ini"]
     }
 )
