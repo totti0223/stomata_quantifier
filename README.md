@@ -29,8 +29,8 @@ setuptools==32.3.1
 
 - Several packages such as cv2 and dlib cannot be installed via pip in anaconda environment. In such cases, comment out the requirements.txt like the following 
 
-"#matplotlib ==1.5.1"
-"#numpy == ......."
+	#cv2 ==1.0
+	#dlib == 19.1.0
 
 and install respectively via conda install ....
 
@@ -38,9 +38,9 @@ and install respectively via conda install ....
 
 - In terminal
 
-	python
-	import bmicp
-	bmicp.cui("PATH/TO/THE/DIRECTORYORIMAGE")
+    python
+    import bmicp
+    bmicp.cui("PATH/TO/THE/DIRECTORYORIMAGE")
 
 ## Examples
 
