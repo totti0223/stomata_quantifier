@@ -6,7 +6,7 @@ A three step image analysis program for quantification of stomatal aperture from
 2. Classifying the status (open, partially open, closed, false positive) by CNN.
 3. Pore quantification responsive to the object status.
 
-<img src="https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg" width="480">
+<img src="https://github.com/totti0223/stomata_quantifier/blob/master/images/overview.jpg" width="480">
 
 ## Requirements
 
@@ -59,6 +59,5 @@ bmicp.cui("PATH/TO/THE/DIRECTORY_OR_IMAGES")
 ~~~~
 
 ## Examples
-
-TODO
+bmicp.cui("PATH/TO/THE/DIRECTORY_OR_IMAGES")
 
