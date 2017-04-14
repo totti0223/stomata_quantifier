@@ -97,3 +97,9 @@ CSV files with quantified stomatal pores.
 
 #### FOLDERNAME_count.csv
 Statistics of classified object per image (no. of open, partially open, closed, false positive per image).
+
+## Plans
+
+- Migrating CNN code from tensorflow to keras
+
+- GUI
