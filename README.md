@@ -1,5 +1,8 @@
 # bmicp (stomatal pore quantifier)
 
+![overview](https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg)
+
+
 ## Requirements
 python>3
 matplotlib==1.5.1
@@ -15,11 +18,13 @@ setuptools==32.3.1
 
 ## Installation
 
-1. Download the repository.
+1. Download this repository.
+
+2. Unzip.
 
 2. Open terminal.
 
-3. Move to the downloaded directory.
+3. Move to the Unzipped directory.
 
 ~~~~
 pip install .
