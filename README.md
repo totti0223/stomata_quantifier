@@ -22,7 +22,7 @@ setuptools==32.3.1
 3. Move to the downloaded directory.
 
 ~~~~
-pip install
+pip install .
 ~~~~
 
 ## Note
