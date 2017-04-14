@@ -11,15 +11,25 @@ A three step image analysis program for quantification of stomatal aperture from
 ## Requirements
 
 python>3
+
 matplotlib==1.5.1
+
 numpy==1.11.2
+
 scipy==0.18.1
+
 scikit_image==0.12.3
+
 tensorflow==0.10.0rc0
+
 Pillow==3.2.0
+
 common==0.1.2
+
 cv2==1.0
+
 dlib==19.1.0
+
 setuptools==32.3.1
 
 ## Installation
@@ -103,3 +113,5 @@ Statistics of classified object per image (no. of open, partially open, closed, 
 - Migrating CNN code from tensorflow to keras
 
 - GUI
+
+- Registrating the package to PyPi (Packaging the CNN model exceeds the upload size limit of PyPI)
