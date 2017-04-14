@@ -6,7 +6,7 @@ A three step image analysis program for quantification of stomatal aperture from
 2. Classifying the status (open, partially open, closed, false positive) by convolutional neural network.
 3. Pore quantification responsive to the object status.
 
-![overview](https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg)
+![overview]("https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg" width="480")
 
 
 ## Requirements
@@ -42,9 +42,10 @@ pip install .
 
 - Several packages such as cv2 and dlib cannot be installed via pip in anaconda environment. In such cases, comment out the requirements.txt like the following 
 
-	#cv2 ==1.0
-	#dlib == 19.1.0
-
+~~~~
+#cv2 ==1.0
+#dlib == 19.1.0
+~~~~
 and install respectively via conda install ....
 
 ## Usage
