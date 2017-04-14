@@ -118,7 +118,7 @@ def check_type_of_input(dir_path):
     else:
         print ("not a valid file or directory")
         sys.exit()
-        return item_list  # list of files
+    return item_list  # list of files
 def stomata_detector(image_path, detector_path, detection_image_width=False):
     #will remove scaled image output in future.
     '''

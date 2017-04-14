@@ -2,13 +2,14 @@
 
 A three step image analysis program for quantification of stomatal aperture from bright field images.
 
-1. Identifying the coordinate of the stomata by hog + SVM.
-2. Classifying the status (open, partially open, closed, false positive) by convolutional neural network.
+1. Identifying the coordinate of the stomata by HOG + SVM.
+2. Classifying the status (open, partially open, closed, false positive) by CNN.
 3. Pore quantification responsive to the object status.
 
 <img src="https://github.com/totti0223/stomata_quantifier/blob/master/bmicp/images/overview.jpg" width="480">
 
 ## Requirements
+
 python>3
 matplotlib==1.5.1
 numpy==1.11.2
@@ -45,7 +46,7 @@ pip install .
 #cv2 ==1.0
 #dlib == 19.1.0
 ~~~~
-and install respectively via conda install ....
+and install respectively via conda install
 
 ## Usage
 
