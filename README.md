@@ -58,6 +58,14 @@ import bmicp
 bmicp.cui("PATH/TO/THE/DIRECTORY_OR_IMAGES")
 ~~~~
 
-## Examples
-bmicp.cui("PATH/TO/THE/DIRECTORY_OR_IMAGES")
+## Example
 
+### 1
+Analyzing a directory containing 4 jpeg images in the example folder
+bmicp.cui("PATH_TO_THE_EXAMPLE_FOLDER/examples")
+![ex1](https://github.com/totti0223/stomata_quantifier/blob/master/images/e1.png)
+
+### 2
+![ex1](https://github.com/totti0223/stomata_quantifier/blob/master/images/e2.png)
+
+### 3
