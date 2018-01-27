@@ -9,6 +9,11 @@ A three step image analysis program for quantification of stomatal aperture from
 
 <img src="https://github.com/totti0223/stomata_quantifier/blob/master/images/overview.jpg" width="480">
 
+1. licence is not determined yet.
+2. planning to submit an article soon.
+3. contact me if you want any details.
+(Jan,27,2018)
+
 # Author
 Yosuke Toda, Ph.D (Agriculture)
 
