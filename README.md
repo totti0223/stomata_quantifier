@@ -1,5 +1,5 @@
-#deprecated
-this program is now maintained in 
+# deprecated
+# this program is now maintained in 
 https://github.com/totti0223/deepstomata/
 
 # bmicp (stomatal pore quantifier)
